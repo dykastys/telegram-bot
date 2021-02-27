@@ -12,11 +12,9 @@
 
 3. Заполняем необходимыми данными файл props.properties
 
-# Telegram_Bot information
 TOKEN = "токен телеграмм бота"
 BOT_NAME = "имя бота"
 
-# Jira information
 URI_JIRA = uri вида https://jira...ru:port/ (url домена вашей Jira)
 JIRA_LOGIN = "логин от аккаунта Jira"
 JIRA_PASSWORD = "логин от аккаунта Jira"
