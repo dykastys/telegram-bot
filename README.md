@@ -14,9 +14,7 @@
 
 TOKEN = "токен телеграмм бота"
 BOT_NAME = "имя бота"
-
 URI_JIRA = uri вида https://jira...ru:port/ (url домена вашей Jira)
 JIRA_LOGIN = "логин от аккаунта Jira"
 JIRA_PASSWORD = "логин от аккаунта Jira"
-
 URL = https://jira...ru:port/browse/ (url домена вашей Jira + /brouse)
